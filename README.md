@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Soupu07
-- 👀 I’m interested in Coding & visualisation of data
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects realted to analysis and data visualisation
-- 📫 How to reach me through my github account or through my email address:- souparna.hui@gmail.com
-
-<!---
-Soupu07/Soupu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Analysis of Dataset of a UK-based online retail store using Python
+Below are the python codes which will help you to do a detail analysis
